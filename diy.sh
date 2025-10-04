@@ -18,3 +18,9 @@ echo 'src-git UA3F https://github.com/SunBK201/UA3F.git' >>feeds.conf.default
 #git clone https://github.com/kenzok8/small.git package/small
 #git clone https://github.com/SunBK201/UA3F.git package/UA3F
 git clone https://github.com/stevenjoezhang/luci-app-adguardhome.git package/ADGH
+git clone https://github.com/Zxilly/UA2F.git package/UA2F
+git clone https://github.com/CHN-beta/rkp-ipid.git package/rkp-ipid
+git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
+git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
+git clone https://github.com/lucikap/luci-app-ua2f.git package/luci-app-ua2f
+git clone https://github.com/linkease/istore.git package/istore
